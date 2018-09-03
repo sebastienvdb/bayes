@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bayes", "PythonApplication3\bayes.pyproj", "{E48F7E3B-0950-420C-8B17-E2F8AC0069B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48F7E3B-0950-420C-8B17-E2F8AC0069B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48F7E3B-0950-420C-8B17-E2F8AC0069B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38DACA9-2033-4F9E-9628-DE9F9FB745B2}
+	EndGlobalSection
+EndGlobal
